@@ -47,12 +47,12 @@
   width: 80%;
   height: 90%;
   margin: 0 auto;
-  font-family: 'Dosis', sans-serif;
   border: 2px dashed PeachPuff; 
   border-radius: 2em;
 }
 
 .noten-dandelion-blocktext {
+  font-family: 'Dosis', sans-serif;
   padding: 1em; 
   width: 60%; 
   margin: 0 auto;
