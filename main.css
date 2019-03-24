@@ -1,7 +1,13 @@
-.noten-freesia-outer {
+@import url('https://fonts.googleapis.com/css?family=Kurale|Tangerine');
 
+.noten-freesia-outer {
+  background-image: url("https://i.imgur.com/XMEvgVD.png");
 }
 
 .noten-freesia-inner {
+  font-family: "Kurale", serif;
+}
 
+.noten-freesia-title {
+  font-family: "Tangerine", handwriting;
 }
