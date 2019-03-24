@@ -1,4 +1,84 @@
-@import url('https://fonts.googleapis.com/css?family=Kurale|Tangerine');
+@import url('https://fonts.googleapis.com/css?family=Kurale|Tangerine|Megrim|UnifrakturMaguntia|Fredericka+the+Great|Dosis');
+
+/* Lavatera */
+
+.noten-lavatera-outer {
+  background-image: url('https://imgur.com/vXwJzCE.png');
+  padding-top: 2em; 
+  padding-bottom: 2em;
+}
+
+.noten-lavatera-title {
+  font-family: 'UnifrakturMaguntia', cursive;
+  font-size: 2em
+}
+
+.noten-lavatera-inner {
+  width: 50%;
+  margin: 0 auto;
+  background-image: url('https://imgur.com/ipfyCp9.png');
+  border: 2px solid Indigo;
+  color:black;
+  padding: 1em 2em;
+}
+
+.noten-lavatera-dream {
+  color: White;
+  width: 50%; margin: 0 auto;
+}
+
+.noten-lavatera-speech {
+  color: Indigo;
+  
+}
+
+/* Dandelion */
+
+.noten-dandelion-outer {
+  background-image: url('https://i.imgur.com/nZVCs3j.png');
+  border-radius: 35px 20px;
+  border: 1px solid PeachPuff;
+  color: Black;
+  padding: 2em;
+}
+
+.noten-dandelion-inner {
+  background-color: White;
+  width: 80%;
+  height: 90%;
+  margin: 0 auto;
+  font-family: 'Dosis', sans-serif;
+  border: 2px dashed PeachPuff; 
+  border-radius: 2em;
+}
+
+.noten-dandelion-blocktext {
+  padding: 1em; 
+  width: 60%; 
+  margin: 0 auto;
+}
+
+.noten-dandelion-title-outer {
+  font-family: 'Fredericka the Great', cursive;
+  text-align: center;
+  line-height: 22px;
+  font-size: 4em;
+}
+
+.noten-dandelion-title-inner {
+  font-size: 4em;
+  color: PeachPuff;
+}
+
+.noten-dandelion-subtitle {
+  color: Black; font-size: 1.5em;
+}
+
+.noten-dandelion-speech {
+  color: PeachPuff;
+}
+
+/* Freesia */
 
 .noten-freesia-outer {
   background-image: url("https://i.imgur.com/XMEvgVD.png");
@@ -13,7 +93,7 @@
   margin: 0 auto;
   color: black;
   padding: 1em;
-  border: 5px solid #FFF5BE;
+  border: 2px solid #FFF5BE;
 }
 
 .noten-freesia-title {
