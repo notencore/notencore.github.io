@@ -2,6 +2,8 @@
 
 .noten-freesia-outer {
   background-image: url("https://i.imgur.com/XMEvgVD.png");
+  padding-top: 2em;
+  padding-bottom: 2em;
 }
 
 .noten-freesia-inner {
@@ -9,9 +11,15 @@
   width: 50%;
   background: white;
   margin: 0 auto;
+  color: black;
 }
 
 .noten-freesia-title {
   font-family: "Tangerine", handwriting;
   font-size: 38px;
+  color: #212223;
+}
+
+.noten-freesia-speech {
+  color: #212223;
 }
