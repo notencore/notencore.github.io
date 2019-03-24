@@ -6,8 +6,12 @@
 
 .noten-freesia-inner {
   font-family: "Kurale", serif;
+  width: 50%;
+  background: white;
+  margin: 0 auto;
 }
 
 .noten-freesia-title {
   font-family: "Tangerine", handwriting;
+  font-size: 38px;
 }
