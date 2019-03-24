@@ -42,6 +42,14 @@
   padding: 2em;
 }
 
+.noten-dandelion-outer-glitchy {
+  background-image: url('https://i.imgur.com/eYbTyK0.gif');
+  border-radius: 35px 20px;
+  border: 1px solid PeachPuff;
+  color: Black;
+  padding: 2em;
+}
+
 .noten-dandelion-inner {
   background-color: White;
   width: 80%;
