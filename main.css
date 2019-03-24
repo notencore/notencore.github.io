@@ -13,14 +13,15 @@
   margin: 0 auto;
   color: black;
   padding: 1em;
+  border: 1px double #EE5938;
 }
 
 .noten-freesia-title {
   font-family: "Tangerine", handwriting;
   font-size: 38px;
-  color: #212223;
+  color: #653E7B;
 }
 
 .noten-freesia-speech {
-  color: #212223;
+  color: #653E7B;
 }
