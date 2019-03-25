@@ -26,16 +26,15 @@
   color: White;
   width: 50%;
   margin: 0 auto;
+}
+
+.noten-lavatera-speech {
+  color: Indigo;
   text-shadow:
    -1px -1px 0 white,  
     1px -1px 0 white,
     -1px 1px 0 white,
      1px 1px 0 white;
-}
-
-.noten-lavatera-speech {
-  color: Indigo;
-  
 }
 
 /* Dandelion */
