@@ -1,4 +1,38 @@
-@import url('https://fonts.googleapis.com/css?family=Kurale|Tangerine|Megrim|UnifrakturMaguntia|Fredericka+the+Great|Dosis');
+@import url('https://fonts.googleapis.com/css?family=Kurale|Tangerine|Megrim|UnifrakturMaguntia|Fredericka+the+Great|Dosis|Lato');
+
+/* New Universal Template */
+
+.noten-universal-box {
+  font-family: 'Lato', sans-serif;
+  color: whitesmoke;
+  background-color: #363636;
+  border-radius: 6px;
+  box-shadow: 0 0.5em 1em -0.125em rgba(10, 10, 10, 0.1), 0 0px 0 1px rgba(10, 10, 10, 0.02);
+  color: #4a4a4a;
+  display: block;
+  padding: 1.25rem;
+  margin: 3em;
+}
+
+.noten-character-lavatera {
+  color: #cc5de8;
+}
+
+.noten-character-dandelion {
+  color: #fcc419;
+}
+
+.noten-character-freesia {
+  color: #fcc419;
+}
+
+.noten-character-bluebell {
+  color: #4263eb;
+}
+
+.noten-character-sariel {
+  color: #74c0fc;
+}
 
 /* Lavatera */
 
