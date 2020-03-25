@@ -13,7 +13,14 @@
   font-size: 14pt;
   margin-right: 22%;
   margin-left: 22%;
-  line-height: 0.25rem;
+}
+
+.noten-universal-box h1 {
+  line-height: 1rem;
+}
+
+.noten-universal-box h2 {
+  line-height: 1rem;
 }
 
 .noten-character-lavatera {
